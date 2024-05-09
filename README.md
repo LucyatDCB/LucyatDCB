@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucyatDCB
+- 👋 Hi, I’m LucyatDCB aka Gopukrishnan
 - 👀 I’m interested in programming as well as gaming...more into solving bio problems
 - 🌱 I’m currently learning python, r, perl, java, omics
 - 💞️ I’m looking to collaborate on any project..you name it, we collab
